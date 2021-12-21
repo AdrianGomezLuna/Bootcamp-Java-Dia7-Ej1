@@ -19,7 +19,7 @@ public class Persona {
 	}
 	
 	
-	public void persona(String mensaje) {
+	public void mensaje(String mensaje) {
 		System.out.println(mensaje);
 	}
 
